@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geometry-dash-apkk.github.io/features-of-geometry-dash/sitemap.xml
